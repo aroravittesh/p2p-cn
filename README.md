@@ -1,5 +1,11 @@
 # CNT5106C - P2P FILE SHARING SYSTEM
 
+## Group Members
+
+- Vittesh Arora
+- Raghav Gupta
+- Ansh Jain
+
 ## Compilation Steps
 
 ```bash
