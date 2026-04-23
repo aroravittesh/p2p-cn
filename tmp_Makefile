@@ -1,0 +1,35 @@
+# Handshake.class: Msgs/Handshake.java
+# 	$(JCC) $(JFLAGS) Handshake.java
+
+# PeerMetadata.class: Metadata/PeerMetadata.java
+# 	$(JCC) $(JFLAGS) Metadata/PeerMetadata.java
+
+# Handler.class: Handler/MsgHandler.java
+# 	$(JCC) $(JFLAGS) Handler/MsgHandler.java
+
+# MsgQueue.class: Queue/MsgQueue.java
+# 	$(JCC) $(JFLAGS) Queue/MsgQueue.java
+
+# MsgMetadata.class: Metadata/MsgMetadata.java
+# 	$(JCC) $(JFLAGS) Metadata/MsgMetadata.java
+
+# Constants.class: Msgs/Constants.java
+# 	$(JCC) $(JFLAGS) Msgs/Constants.java
+
+# Msg.class: Msgs/Msg.java
+# 	$(JCC) $(JFLAGS) Msgs/Msg.java
+
+# Helper.class: Logging/Helper.java
+# 	$(JCC) $(JFLAGS) Logging/Helper.java
+
+# LogFormatter.class: Logging/LogFormatter.java
+# 	$(JCC) $(JFLAGS) Logging/LogFormatter.java
+
+# FilePiece.class: Msgs/FilePiece.java
+# 	$(JCC) $(JFLAGS) FilePiece.java
+
+# SysConfig.class: Configs/SysConfig.java
+# 	$(JCC) $(JFLAGS) SysConfig.java
+
+# BitField.class: Msgs/BitField.java
+# 	$(JCC) $(JFLAGS) Msgs/BitField.java
